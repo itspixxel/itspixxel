@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itspixxel
-- 👀 I’m interested in games programming
+- 👋 Hi, I’m Pixx!
+- 👀 I’m interested in Gameplay Mechanics Programming
 - 🌱 I’m currently learning Computer Games Development at Staffordshire University
 - 📫 You can reach me on Discord @oPixxie#6635
