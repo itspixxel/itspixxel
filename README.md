@@ -1,1 +1,4 @@
-![githubprofile](https://user-images.githubusercontent.com/115170653/233695102-d783d5c5-98ff-4b8e-bb3f-687e58e99674.png)
+- 👋 Hi, I’m @itspixxel
+- 👀 I’m interested in games programming
+- 🌱 I’m currently learning Computer Games Development at Staffordshire University
+- 📫 You can reach me on Discord @oPixxie#6635
