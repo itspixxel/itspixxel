@@ -11,11 +11,12 @@
 
 - 🌱 I'm currently learning **Computer Games Development** at Staffordshire University
 - 🎮 I specialize in **Gameplay Mechanics Programming**
-- 💬 You can reach me on Discord **@itspixxel**
+- 💬 You can reach me on Discord **@itspixxel** | LinkedIn **@itspixxel** | 
 - 😄 Pronouns : **They/Them**
+- 📖 Portfolio : https://itspixxel.github.io
+- 💼 Contact me @ itsapixxel@gmail.com
 
 <br/>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
